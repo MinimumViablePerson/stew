@@ -33,4 +33,4 @@ Instanciate it with a target element and the model you want to use:
 const todoView = new TodoView(document.body, todoStore)
 ```
 
-And that's it! Now you can just go ahead and change any of the model properties, and the view will auto re-render to stay in sync.
+And that's it! Now you can just go ahead and change any of the model properties, and the view will be auto re-render to stay in sync.
