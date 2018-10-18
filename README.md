@@ -1,7 +1,7 @@
 # Stew (State View)
 
 ## Intro
-Welcome to my Stew, a tiny framework I built for fun and to practice some JavaScript, I hope you like it! (Work in progress)
+Welcome to Stew, a tiny framework-like concept I built for fun and to practice some JavaScript, I hope you like it! (Work in progress)
 
 ## How to use it
 The idea is simple. First, you create a model, like so:
