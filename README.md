@@ -1,7 +1,8 @@
 # Stew (State View)
 
 ## Intro
-Welcome to Stew, a tiny framework-like concept I built for fun and to practice some JavaScript, I hope you like it! (Work in progress)
+Welcome to Stew, just create your state, and each view you create will stay in sync with it when it changes!
+This is a tiny framework-like concept I built for fun and to practice some JavaScript, I hope you like it! (Work in progress)
 
 ## How to use it
 The idea is simple. First, you create a model, like so:
